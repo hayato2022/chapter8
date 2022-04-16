@@ -47,7 +47,7 @@
   margin-right: 0;
 }
 
-.box-color:nth-last-child(-n+3){
+.box-color:nth-last-child(-n+2){
   margin-bottom: 0;
 }
 
